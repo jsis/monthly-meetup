@@ -1,9 +1,7 @@
 # Monthly Javascript Meetup
 
-### Speakers who want go give a talk
+# Upcoming events
 
-### Companies that want to host us
-
-### Previous talks and speakers
-
-### Companies that have hosted us
+| Month | Location | Datetime | Sponsor | [MC](https://github.com/jsis/monthly-meetup/issues/5) | Schedule |
+|-------|----------|----------|---------|-------------------------------------------------------|----------|
+| July  | TBA      | TBA      | TBA     | TBA                                                   | TBA      |
