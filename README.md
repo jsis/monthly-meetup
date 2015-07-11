@@ -2,6 +2,7 @@
 
 # Upcoming events
 
-| Month | Location | Datetime | Sponsor | [MC](https://github.com/jsis/monthly-meetup/issues/5) | Schedule |
-|-------|----------|----------|---------|-------------------------------------------------------|----------|
-| July  | TBA      | TBA      | TBA     | TBA                                                   | TBA      |
+| Month  | Location | Datetime | Sponsor | [MC](#5) | Schedule               |
+|--------|----------|----------|---------|----------|------------------------|
+| July   | TBA      | TBA      | TBA     | TBA      | [See here](2015/07.md) |
+| August | TBA      | TBA      | TBA     | TBA      | [See here](2015/08.md) |
