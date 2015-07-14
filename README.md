@@ -4,7 +4,7 @@
 
 | Month  | Location | Datetime | Sponsor | MC  | Schedule               |
 |--------|----------|----------|---------|-----|------------------------|
-| July   |    Laugavegur 77 | 23 July      | Quiz Up    | Kristján Oddson   | [See here](2015/07.md) |
+| July   |    Laugavegur 77 | 23 July      | Quiz Up    | Kristján Oddsson   | [See here](2015/07.md) |
 | August | TBA      | TBA      | TBA     | TBA | [See here](2015/08.md) |
 
 ## FAQ
