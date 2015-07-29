@@ -9,17 +9,17 @@
 
 ## FAQ
 
-- What's an MC?
- - It's a person that makes sure the meetup runs smoothly. See
+### What's an MC?
+It's a person that makes sure the meetup runs smoothly. See
    [this issue](https://github.com/jsis/monthly-meetup/issues/5).
 
 
-- Do I have to sign up to come ?
-  - No, but it would be nice to attend a Facebook event created for each meet up. See the [Javascript Iceland](https://www.facebook.com/groups/nodejsis/) facebook group for more details on each event.
+### Do I have to sign up to come ?
+No, but it would be nice to attend a Facebook event created for each meet up. See the [Javascript Iceland](https://www.facebook.com/groups/nodejsis/) facebook group for more details on each event.
 
   
-- Do I have to pay ?
-  - No ! It's completly free. Everyone is welcome
+### Do I have to pay ?
+No ! It's completly free. Everyone is welcome
  
-- Have a question that's not listed here?
-  - [Open up a issue](https://github.com/jsis/monthly-meetup/issues/new)
+### Have a question that's not listed here?
+[Open up a issue](https://github.com/jsis/monthly-meetup/issues/new)
