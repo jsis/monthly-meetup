@@ -1,11 +1,11 @@
-# Monthly Javascript Meetup
+# Bi-Monthly Javascript Meetup
 
 # Upcoming events
 
-| Month  | Location      | Datetime | Sponsor | MC               | Schedule               |
-|--------|---------------|----------|---------|------------------|------------------------|
-| July   | Laugavegur 77 | 23 July  | Quiz Up | Kristján Oddsson | [See here](2015/07.md) |
-| August | TBA           | TBA      | TBA     | TBA              | [See here](2015/08.md) |
+| Month     | Location      | Datetime | Sponsor | MC               | Schedule               |
+|-----------|---------------|----------|---------|------------------|------------------------|
+| July      | Laugavegur 77 | 23 July  | Quiz Up | Kristján Oddsson | [See here](2015/07.md) |
+| September | TBA           | TBA      | TBA     | TBA              | [See here](2015/09.md) |
 
 ## FAQ
 
