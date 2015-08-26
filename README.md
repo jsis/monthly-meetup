@@ -2,10 +2,11 @@
 
 # Upcoming events
 
-| Month     | Location      | Datetime | Sponsor | MC               | Schedule               |
-|-----------|---------------|----------|---------|------------------|------------------------|
-| July      | Laugavegur 77 | 23 July  | Quiz Up | Kristján Oddsson | [See here](2015/07.md) |
-| September | TBA           | TBA      | TBA     | TBA              | [See here](2015/09.md) |
+| Month     | Location      | Datetime     | Sponsor   | MC               | Schedule               |
+|-----------|---------------|--------------|-----------|------------------|------------------------|
+| July      | Laugavegur 77 | 23 July      | Quiz Up   | Kristján Oddsson | [See here](2015/07.md) |
+| September | TBA           | 17 September | Advania   | TBA              | [See here](2015/09.md) |
+| October   | TBA           | 22 October   | Novomatic | TBA              | TBA                    |
 
 ## FAQ
 
