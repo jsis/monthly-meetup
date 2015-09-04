@@ -6,7 +6,7 @@
 |-----------|---------------|--------------|-----------|------------------|------------------------|
 | July      | Laugavegur 77 | 23 July      | Quiz Up   | Kristján Oddsson | [See here](2015/07.md) |
 | September | [Gudrunartun 10][AdvaniHQ]| 17 September | Advania   | TBA              | [See here](2015/09.md) |
-| October   | TBA           | 22 October   | Novomatic | TBA              | TBA                    |
+| October   | TBA           | 22 October   | Novomatic | TBA              | [See here](2015/10.md)                    |
 
 ## FAQ
 
