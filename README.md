@@ -5,8 +5,8 @@
 | Month     | Location      | Datetime     | Sponsor   | MC               | Schedule               |
 |-----------|---------------|--------------|-----------|------------------|------------------------|
 | July      | Laugavegur 77 | 23 July      | Quiz Up   | Kristján Oddsson | [See here](2015/07.md) |
-| September | [Eiðistorg 13-15][VivaldiHQ]| 24 September | Vivaldi   | TBA              | [See here](2015/09.md) |
-| October   | TBA           | 22 October   | Novomatic | TBA              | [See here](2015/10.md)                    |
+| September | [Eiðistorg 13-15][VivaldiHQ]| 24 September | Vivaldi   | Kristján Mikaelsson         | [See here](2015/09.md) |
+| October   | Holtasmári 1  | 22 October   | Novomatic | TBA              | [See here](2015/10.md)                    |
 
 ## FAQ
 
