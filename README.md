@@ -25,6 +25,6 @@
 - Have a question that's not listed here?
   - [Open up a issue](https://github.com/jsis/monthly-meetup/issues/new)
 
-[QuizUpHQ]: https://www.google.is/maps/place/Laugavegur+77,+101+Reykjav%C3%ADk/@64.1438106,-21.9218148,17z/data=!3m1!4b1!4m2!3m1!1s0x48d674cc19a399f7:0x1efb1530ce0e2c81?hl=en
+[QuizUpHQ]: https://www.google.is/maps/place/Laugavegur+77,+101+Reykjav%C3%ADk/@64.1437575,-21.919767,19z/data=!4m2!3m1!1s0x48d674cc19a399f7:0x1efb1530ce0e2c81?hl=en
 [VivaldiHQ]: https://www.google.is/maps/place/Ei%C3%B0istorg,+Reykjav%C3%ADk/@64.1504628,-21.984728,17z/data=!3m1!4b1!4m2!3m1!1s0x48d60b206520c419:0x6a5abab9c427b09a?hl=en
 [NovomaticHQ]: https://www.google.is/maps/dir//Holtasm%C3%A1ri+1,+K%C3%B3pavogur/@64.0981143,-21.8898085,17z/data=!4m13!1m4!3m3!1s0x48d60cb35f35401f:0x73732b7e26d589cd!2sBetware!3b1!4m7!1m0!1m5!1m1!1s0x48d60cb35f35401f:0x73732b7e26d589cd!2m2!1d-21.8875965!2d64.0981457?hl=en
