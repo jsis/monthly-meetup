@@ -6,7 +6,7 @@
 |-----------|---------------|--------------|-----------|------------------|------------------------|
 | July      | [Laugavegur 77][QuizUpHQ] | 23 July      | Quiz Up   | Kristján Oddsson | [See here](2015/07.md) |
 | September | [Eiðistorg 13-15][VivaldiHQ]| 24 September | Vivaldi   | Kristján Mikaelsson         | [See here](2015/09.md) |
-| October   | [Holtasmári 1][NovomaticHQ]  | 22 October   | Novomatic | TBA              | [See here](2015/10.md)                    |
+| October   | [Holtasmári 1][NovomaticHQ]  | 22 October   | Novomatic | Axel Máni              | [See here](2015/10.md)                    |
 
 ## FAQ
 
