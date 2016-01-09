@@ -4,9 +4,7 @@
 
 | Month     | Location      | Datetime     | Sponsor   | MC               | Schedule               |
 |-----------|---------------|--------------|-----------|------------------|------------------------|
-| July      | [Laugavegur 77][QuizUpHQ] | 23 July      | Quiz Up   | Kristján Oddsson | [See here](2015/07.md) |
-| September | [Eiðistorg 13-15][VivaldiHQ]| 24 September | Vivaldi   | Kristján Mikaelsson         | [See here](2015/09.md) |
-| October   | [Holtasmári 1][NovomaticHQ]  | 22 October   | Novomatic | Axel Máni              | [See here](2015/10.md)                    |
+| October   | [Holtasmári 1][NovomaticHQ]  | 22 October   | Novomatic | Axel Máni              | [See here](2015/10.md) |
 
 ## FAQ
 
@@ -24,6 +22,13 @@
 
 - Have a question that's not listed here?
   - [Open up a issue](https://github.com/jsis/monthly-meetup/issues/new)
+
+# Past events
+
+| Month     | Location      | Datetime     | Sponsor   | MC               | Schedule               |
+|-----------|---------------|--------------|-----------|------------------|------------------------|
+| September | [Eiðistorg 13-15][VivaldiHQ]| 24 September | Vivaldi   | Kristján Mikaelsson         | [See here](2015/09.md) |
+| July      | [Laugavegur 77][QuizUpHQ] | 23 July      | Quiz Up   | Kristján Oddsson | [See here](2015/07.md) |
 
 [QuizUpHQ]: https://www.google.is/maps/place/Laugavegur+77,+101+Reykjav%C3%ADk/@64.1437575,-21.919767,19z/data=!4m2!3m1!1s0x48d674cc19a399f7:0x1efb1530ce0e2c81?hl=en
 [VivaldiHQ]: https://www.google.is/maps/place/Ei%C3%B0istorg,+Reykjav%C3%ADk/@64.1504628,-21.984728,17z/data=!3m1!4b1!4m2!3m1!1s0x48d60b206520c419:0x6a5abab9c427b09a?hl=en
